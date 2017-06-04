@@ -9,4 +9,10 @@ The input consists of an integer 2n, 1 ≤ 𝑛 ≤ 10000, denoting the number o
 
 # Output
 The output file reports the number of chords in the maximum planar subset in the input circle of n chords, followed by a list of the two endpoints for each resulting chord in the maximum planar subset (sorted by the first endpoint in the increasing order).
+<img width="648" alt="2017-06-04 5 56 25" src="https://cloud.githubusercontent.com/assets/28750963/26760575/3bbd1ca0-494f-11e7-9946-71334ca8c5d7.png">
 
+# Compile
+gcc -o main main.c
+
+# Usage
+./main [input file.in] [output file.out]
