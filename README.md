@@ -18,4 +18,4 @@ gcc -o main main.c
 ./main [input file.in] [output file.out]
 
 # REMARKS
-This is the homework from Algorithm Lesson. By applying dynamic programming.
+This is a homework from Algorithm Lesson NTUST. By applying dynamic programming.
