@@ -16,3 +16,6 @@ gcc -o main main.c
 
 # Usage
 ./main [input file.in] [output file.out]
+
+# REMARKS
+This is the homework from Algorithm Lesson. By applying dynamic programming.
